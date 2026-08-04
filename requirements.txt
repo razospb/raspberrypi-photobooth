@@ -1,0 +1,4 @@
+mediapipe
+opencv-python
+Pillow
+RPi.GPIO # For Raspberry Pi GPIO control (RPi only)
