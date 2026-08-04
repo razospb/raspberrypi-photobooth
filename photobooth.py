@@ -111,7 +111,7 @@ def find_landmark_names(frame1):
 
 # Function to combine bursts
 def combine_images(columns, space, images):
-    # Display the live preview window.
+    # Determine the dimensions of the composite image.
     rows = len(images) // columns
     if len(images) % columns:
         rows += 1
