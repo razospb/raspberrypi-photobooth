@@ -116,7 +116,7 @@ The project depends on:
   </tr>
   <tr>
     <td align="center">
-      <img src="images/burst_combined-1.png" height="280">
+      <img src="images/burst_combined-1.PNG" height="280">
     </td>
     <td align="center">
       <img src="images/burst_combined-2.png" height="280">
@@ -128,10 +128,10 @@ The project depends on:
   </tr>
   <tr>
     <td align="center">
-      <img src="images/burst_combined-3.png" height="280">
+      <img src="images/burst_combined-3.PNG" height="280">
     </td>
     <td align="center">
-      <img src="images/burst_combined-4.png" height="280">
+      <img src="images/burst_combined-4.PNG" height="280">
     </td>
   </tr>
 </table>
